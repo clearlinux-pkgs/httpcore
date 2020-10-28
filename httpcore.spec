@@ -4,7 +4,7 @@
 #
 Name     : httpcore
 Version  : 0.12.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/42/c8/25a57dcc665cfbc1ad67ff7a10912e5bc01375345c91cd41bfd7fd92c874/httpcore-0.12.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/42/c8/25a57dcc665cfbc1ad67ff7a10912e5bc01375345c91cd41bfd7fd92c874/httpcore-0.12.0.tar.gz
 Summary  : A minimal low-level HTTP client.
@@ -62,7 +62,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1603923612
+export SOURCE_DATE_EPOCH=1603925714
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
