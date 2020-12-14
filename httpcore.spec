@@ -4,7 +4,7 @@
 #
 Name     : httpcore
 Version  : 0.12.2
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/9f/32/0001b9ebc116f78df57428cc9971e9dd518baa3b5b754d7685866837051e/httpcore-0.12.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/9f/32/0001b9ebc116f78df57428cc9971e9dd518baa3b5b754d7685866837051e/httpcore-0.12.2.tar.gz
 Summary  : A minimal low-level HTTP client.
