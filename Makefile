@@ -1,5 +1,5 @@
 PKG_NAME := httpcore
-URL = https://files.pythonhosted.org/packages/e4/4c/a2125e6433e7af79700e3fc98d65996ba3fc0797a5200efc058e5d761a9b/httpcore-0.13.4.tar.gz
+URL = https://files.pythonhosted.org/packages/e2/a4/b9cac2dcb27325aef5f2a850cfbcde7b8a35b349187c30a7a4ea4b717b74/httpcore-0.13.5.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
