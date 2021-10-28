@@ -4,7 +4,7 @@
 #
 Name     : httpcore
 Version  : 0.13.7
-Release  : 22
+Release  : 23
 URL      : https://files.pythonhosted.org/packages/6a/90/334411fe5455d30498add7d77a8bf4833bfc4671289a954fb2fd43795338/httpcore-0.13.7.tar.gz
 Source0  : https://files.pythonhosted.org/packages/6a/90/334411fe5455d30498add7d77a8bf4833bfc4671289a954fb2fd43795338/httpcore-0.13.7.tar.gz
 Summary  : A minimal low-level HTTP client.
